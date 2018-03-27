@@ -5,7 +5,7 @@
 - NodeJS ^8.9
 - npm ^5.6
 
-# Steps to Run inside CodeMix
+## Steps to Run inside CodeMix
 
 
 1. From the `Quick Open`  Command Palette (ctrl/cmd + shift + p) search for:
